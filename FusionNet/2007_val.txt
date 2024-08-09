@@ -1,0 +1,250 @@
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001352.jpg 49,33,82,68,0 101,80,129,107,0 135,123,159,148,0 200,219,223,247,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005896.jpg 9,71,338,277,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000599.jpg 145,117,162,144,0 164,80,196,104,0 221,65,259,88,0 296,59,320,81,0 1,171,66,253,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005954.jpg 125,210,135,235,0 235,187,246,211,0 212,284,228,307,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001226.jpg 26,54,81,86,0 119,89,150,116,0 157,124,200,151,0 250,206,277,230,0 3,130,27,151,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002830.jpg 900,125,1107,328,0 555,1,710,124,0 1,517,143,651,0 4,432,135,533,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000139.jpg 631,303,1050,618,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002550.jpg 676,285,828,498,0 299,181,409,318,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003522.jpg 218,455,247,475,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000179.jpg 686,233,1126,537,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003088.jpg 302,449,328,468,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003255.jpg 421,220,483,339,4 493,320,512,367,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005733.jpg 28,21,80,56,0 206,103,275,149,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006131.jpg 411,159,427,168,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002455.jpg 759,349,888,532,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000172.jpg 682,271,1109,609,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003710.jpg 688,3,875,194,0 176,85,582,374,0 318,556,511,864,0 391,889,652,1080,0 755,548,969,884,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003415.jpg 261,162,280,183,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003544.jpg 237,342,268,362,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003595.jpg 251,289,265,311,0 323,230,395,340,4 378,196,499,243,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003345.jpg 3,4,230,249,4 213,1,509,133,4 5,28,25,68,2
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000847.jpg 1,191,27,223,0 123,108,148,137,0 43,26,69,51,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001207.jpg 21,62,63,92,0 107,99,145,123,0 146,128,184,163,0 251,205,285,238,0 17,157,46,179,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003742.jpg 708,6,877,192,0 173,88,563,374,0 236,566,480,877,0 312,909,527,1080,0 693,578,907,899,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000138.jpg 525,244,1152,638,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000141.jpg 626,331,1057,627,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002605.jpg 774,232,945,458,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002538.jpg 680,307,832,514,0 257,97,365,214,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005989.jpg 1,198,24,261,4 122,183,131,200,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002657.jpg 811,351,978,564,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005808.jpg 161,137,241,196,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003833.jpg 919,5,1129,219,0 366,42,726,341,0 211,539,543,873,0 230,873,450,1080,0 654,585,908,952,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006141.jpg 74,207,97,216,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003218.jpg 431,255,461,281,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003575.jpg 438,315,473,331,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000890.jpg 53,29,80,54,0 134,115,161,141,0 96,224,125,240,0 106,230,139,250,0 122,241,150,256,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003754.jpg 709,5,907,216,0 180,105,552,381,0 213,588,447,896,0 295,903,501,1080,0 684,587,876,937,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001360.jpg 52,33,88,68,0 105,80,129,108,0 137,123,160,152,0 201,218,226,247,0 1,1,17,19,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000269.jpg 632,321,1041,603,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002557.jpg 676,259,837,497,0 323,249,444,380,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000239.jpg 757,23,1153,309,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002589.jpg 750,231,889,434,0 467,535,599,688,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002439.jpg 763,329,905,520,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002358.jpg 798,272,946,471,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000610.jpg 151,115,170,141,0 161,73,187,97,0 214,54,253,76,0 287,46,320,66,0 1,159,73,254,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000557.jpg 134,127,158,149,0 185,110,219,127,0 248,105,287,126,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000558.jpg 132,128,158,152,0 185,110,218,127,0 246,106,285,126,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002365.jpg 800,288,965,479,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000530.jpg 129,124,159,144,0 191,117,225,135,0 250,115,289,134,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002394.jpg 787,302,924,484,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002607.jpg 776,212,948,447,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003639.jpg 618,13,836,202,0 168,144,569,398,0 450,577,637,866,0 841,548,1104,856,0 573,859,876,1080,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003354.jpg 1,55,110,470,4 371,1,510,180,4 392,434,512,512,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000821.jpg 140,113,164,137,0 64,31,89,54,0 79,13,106,37,0 41,232,99,256,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003468.jpg 83,72,110,86,0 9,28,103,127,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000648.jpg 222,18,255,38,0 151,30,186,55,0 127,67,144,92,0 143,123,163,150,0 1,132,58,254,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003711.jpg 680,14,872,196,0 166,113,579,364,0 309,571,505,869,0 384,889,655,1080,0 737,569,968,877,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001257.jpg 13,39,69,70,0 107,82,139,99,0 142,109,174,139,0 222,194,238,222,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000261.jpg 651,309,1066,609,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000873.jpg 141,110,168,135,0 56,23,86,50,0 117,236,147,252,0 1,160,21,187,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000423.jpg 159,130,194,149,0 212,134,246,152,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006069.jpg 299,380,424,437,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003660.jpg 652,6,837,214,0 163,137,566,394,0 405,582,598,873,0 532,870,798,1080,0 830,556,1070,863,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005736.jpg 35,23,90,58,0 217,111,289,159,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003199.jpg 85,408,107,440,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002564.jpg 701,259,853,499,0 358,296,464,444,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000331.jpg 401,359,814,648,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005842.jpg 70,80,194,172,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003479.jpg 147,375,169,409,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000652.jpg 215,16,248,36,0 146,29,179,54,0 125,66,141,93,0 142,124,164,152,0 1,131,61,253,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003807.jpg 890,2,1091,214,0 352,59,716,360,0 258,524,536,884,0 307,889,515,1080,0 719,598,943,925,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000180.jpg 720,242,1152,591,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003450.jpg 407,299,481,375,4 427,264,449,280,0 194,487,219,512,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003178.jpg 1,322,28,339,0 81,303,113,327,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005962.jpg 1,103,91,207,4 96,145,119,156,0 127,121,150,131,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000176.jpg 691,274,1100,589,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003704.jpg 673,12,868,198,0 169,114,568,360,0 318,571,525,867,0 412,873,665,1080,0 769,567,987,887,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000507.jpg 127,126,162,143,0 191,123,224,139,0 201,139,236,155,0 246,120,284,140,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001340.jpg 41,36,76,65,0 98,77,123,107,0 131,121,156,144,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001346.jpg 46,33,80,68,0 98,78,126,104,0 130,121,157,150,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002669.jpg 801,355,978,596,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001325.jpg 31,34,66,69,0 92,76,120,105,0 126,117,153,143,0 183,209,209,235,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003306.jpg 393,329,436,350,2 471,302,504,314,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005801.jpg 141,124,217,179,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005722.jpg 1,13,48,46,0 165,83,228,122,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003447.jpg 292,353,321,368,0 207,338,298,462,4 424,392,509,498,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001311.jpg 16,36,57,68,0 86,75,114,103,0 120,112,148,139,0 178,207,205,232,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002401.jpg 780,316,915,499,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006015.jpg 314,360,370,456,4 323,469,351,481,0 397,1,465,37,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002813.jpg 914,128,1120,347,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003675.jpg 659,6,863,202,0 172,125,576,374,0 402,578,575,875,0 484,874,754,1080,0 804,563,1032,884,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000153.jpg 666,316,1082,660,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002556.jpg 698,255,848,511,0 319,243,439,367,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003266.jpg 341,294,424,459,4 324,357,341,385,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003620.jpg 611,13,827,210,0 147,159,577,405,0 476,591,670,878,0 858,541,1151,864,0 612,875,940,1080,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000466.jpg 221,130,256,146,0 165,128,201,145,0 86,145,124,162,0 272,128,297,148,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000671.jpg 1,121,37,254,4 128,133,150,159,0 100,69,116,96,0 103,24,131,51,0 165,6,197,24,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005721.jpg 9,288,164,288,0 1,14,44,41,0 160,80,224,121,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002648.jpg 824,328,966,544,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005957.jpg 324,170,340,194,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000241.jpg 712,55,1157,310,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003102.jpg 288,268,312,295,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003352.jpg 118,368,145,378,0 1,60,117,491,4 396,219,512,511,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006101.jpg 311,370,331,381,0 163,1,288,63,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002771.jpg 918,192,1098,427,0 16,636,233,720,0 1,454,124,574,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005982.jpg 280,58,367,136,4 271,122,293,142,0 244,144,262,165,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002707.jpg 840,337,1007,547,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002809.jpg 936,146,1109,342,0 110,628,252,714,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003697.jpg 682,10,869,216,0 184,112,570,380,0 343,542,545,864,0 426,864,688,1080,0 787,553,986,889,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005772.jpg 138,60,205,111,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002348.jpg 810,294,946,473,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005917.jpg 56,126,378,288,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005900.jpg 39,75,383,284,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005822.jpg 116,118,213,197,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002791.jpg 937,162,1135,397,0 1,516,219,647,0 1,445,181,529,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000294.jpg 503,327,911,602,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003364.jpg 344,142,377,156,0 339,209,373,221,0 387,4,512,351,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003414.jpg 394,334,415,350,0 236,374,259,391,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002905.jpg 750,151,954,355,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005883.jpg 41,118,297,285,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000792.jpg 120,81,145,104,0 116,114,138,140,0 46,36,73,61,0 83,31,109,52,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003004.jpg 269,7,284,36,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001222.jpg 25,51,72,86,0 116,88,157,116,0 163,126,190,151,0 247,202,278,229,0 2,138,33,158,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003485.jpg 96,93,119,109,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002326.jpg 771,293,928,483,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002867.jpg 814,122,1045,347,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000212.jpg 785,88,1197,380,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002533.jpg 685,312,835,537,0 246,45,350,181,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003545.jpg 372,151,389,193,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003509.jpg 365,136,395,152,0 312,140,364,209,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003375.jpg 274,272,301,374,2 301,284,328,383,2 405,148,512,327,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003727.jpg 697,23,868,184,0 169,106,551,385,0 255,528,487,878,0 329,875,584,1080,0 709,564,932,903,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000352.jpg 461,260,879,552,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002615.jpg 801,234,939,454,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003617.jpg 590,1,829,205,0 157,152,583,405,0 477,598,693,884,0 883,555,1152,842,0 622,875,940,1080,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001379.jpg 59,36,92,68,0 110,81,131,112,0 138,126,166,156,0 210,223,238,252,0 1,1,33,22,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002591.jpg 753,228,900,453,0 486,556,593,700,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002861.jpg 835,124,1046,360,0 955,597,1133,720,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002347.jpg 810,285,957,471,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000520.jpg 125,125,157,144,0 187,120,221,138,0 244,116,283,134,0 244,135,279,151,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005735.jpg 31,22,86,58,0 214,109,285,154,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003195.jpg 33,318,67,344,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000619.jpg 1,151,71,254,4 148,116,167,142,0 152,70,177,95,0 198,48,238,70,0 274,40,308,60,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002577.jpg 720,227,876,471,0 413,426,535,580,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001237.jpg 32,45,78,79,0 119,78,157,108,0 164,115,195,146,0 245,199,276,225,0 1,120,17,142,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006058.jpg 349,7,368,19,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003569.jpg 91,2,112,31,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003071.jpg 261,375,286,391,0 260,386,293,404,0 169,403,197,426,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002460.jpg 752,345,881,534,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003445.jpg 357,6,383,21,0 384,4,411,21,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002898.jpg 744,142,958,366,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003562.jpg 370,91,463,194,4 412,52,454,85,4 398,191,426,208,0 383,126,396,158,0 82,276,110,291,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001431.jpg 69,27,96,60,0 113,78,137,110,0 152,127,182,152,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000665.jpg 1,120,48,254,4 132,131,154,157,0 105,70,122,96,0 116,24,146,53,0 180,7,212,28,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002416.jpg 781,314,914,503,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006103.jpg 119,167,141,192,0 239,49,281,120,4 382,402,410,430,4 365,173,393,194,2
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000528.jpg 129,125,160,142,0 191,117,225,133,0 250,115,288,132,0 280,128,303,147,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006026.jpg 419,223,428,242,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000670.jpg 165,6,200,28,0 103,26,137,53,0 99,70,121,97,0 128,133,149,159,0 1,120,38,254,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002461.jpg 752,350,883,540,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001354.jpg 50,35,86,68,0 102,79,130,108,0 135,122,158,150,0 196,217,226,245,0 1,1,11,17,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003502.jpg 158,29,211,67,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003813.jpg 891,7,1101,203,0 354,55,713,357,0 248,506,527,875,0 284,885,501,1080,0 720,569,927,937,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003001.jpg 18,269,53,293,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002855.jpg 832,98,1065,364,0 871,424,1076,671,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000861.jpg 50,22,79,50,0 134,110,159,136,0 1,170,25,204,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000630.jpg 254,31,288,52,0 177,42,217,64,0 140,67,160,94,0 144,118,166,145,0 1,145,67,254,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006123.jpg 395,53,418,65,0 1,259,68,368,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000425.jpg 156,131,193,149,0 210,134,243,150,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005925.jpg 149,70,384,273,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001334.jpg 33,36,74,64,0 94,77,123,107,0 131,120,154,145,0 188,213,214,233,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005748.jpg 68,35,124,73,0 268,140,347,195,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002369.jpg 801,298,948,477,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003743.jpg 698,14,898,205,0 165,70,555,369,0 240,560,506,881,0 308,899,533,1080,0 705,578,905,896,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002381.jpg 791,297,944,488,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003317.jpg 407,98,489,235,4 466,250,479,283,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000655.jpg 1,126,57,253,4 142,125,162,153,0 121,66,136,93,0 139,28,173,55,0 207,12,239,34,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001269.jpg 5,35,49,71,0 88,74,116,100,0 128,112,158,136,0 188,190,217,221,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003826.jpg 897,6,1112,212,0 357,55,732,350,0 220,514,522,888,0 258,881,458,1080,0 666,589,922,932,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003374.jpg 244,362,264,385,0 1,1,351,473,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002992.jpg 201,56,227,78,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002732.jpg 872,272,1033,477,0 1,485,102,593,0 1,393,66,478,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000357.jpg 454,270,882,551,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005902.jpg 66,78,384,287,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001243.jpg 31,45,81,74,0 120,80,152,109,0 163,115,194,144,0 243,193,269,226,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002773.jpg 941,209,1124,419,0 81,664,259,720,0 1,488,136,591,0 1,312,93,405,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003497.jpg 370,127,393,151,0 229,400,247,422,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000712.jpg 1,102,45,239,4 190,157,210,180,0 135,131,156,159,0 88,62,109,88,0 61,1,81,32,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005984.jpg 148,182,245,313,4 227,170,244,185,0 34,154,54,173,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002453.jpg 762,342,894,533,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000561.jpg 131,128,156,151,0 182,111,217,128,0 243,105,282,124,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001300.jpg 7,31,47,67,0 77,76,109,102,0 115,111,147,137,0 175,203,201,230,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000195.jpg 741,159,1161,487,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006032.jpg 24,184,34,205,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006036.jpg 98,24,180,104,4 148,60,226,138,4 266,263,288,285,0 396,139,413,156,0 446,72,462,91,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000696.jpg 1,94,63,250,4 228,203,247,223,0 143,132,166,158,0 102,64,124,89,0 88,10,108,38,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000846.jpg 43,28,68,50,0 122,111,148,140,0 1,193,25,223,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003668.jpg 668,17,854,200,0 176,128,572,367,0 380,576,599,897,0 504,887,769,1080,0 829,564,1050,869,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002457.jpg 754,334,891,524,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003449.jpg 202,437,225,464,0 173,451,369,512,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005798.jpg 131,119,207,174,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002373.jpg 811,303,946,480,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003392.jpg 413,129,428,154,0 454,123,483,136,0 430,170,441,197,0 405,201,502,265,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006112.jpg 302,167,321,189,0 90,17,111,31,0 234,23,301,86,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000803.jpg 140,114,167,140,0 121,55,148,79,0 72,33,100,59,0 84,4,103,22,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000838.jpg 49,27,76,52,0 124,110,153,140,0 9,209,41,236,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006031.jpg 407,110,416,129,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000251.jpg 715,245,1132,560,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003818.jpg 901,12,1116,209,0 363,53,729,363,0 234,532,527,882,0 270,867,488,1080,0 715,581,918,944,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003139.jpg 442,406,463,437,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001293.jpg 1,33,44,67,0 75,72,111,104,0 111,109,144,141,0 169,198,199,228,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003577.jpg 20,169,140,203,4 84,34,160,109,4 1,56,26,88,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001287.jpg 7,36,34,65,0 77,75,101,101,0 114,110,137,133,0 163,193,197,221,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002476.jpg 733,363,854,549,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002472.jpg 733,360,868,541,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000187.jpg 744,233,1126,499,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006006.jpg 401,58,419,73,0 433,88,512,170,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000215.jpg 757,81,1179,384,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005793.jpg 111,104,187,159,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003418.jpg 321,416,499,512,4 349,421,367,446,0 136,466,157,497,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003516.jpg 81,73,100,96,0 108,78,127,109,0 417,321,512,435,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000259.jpg 676,305,1086,599,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000845.jpg 1,193,27,228,0 121,111,149,139,0 42,28,70,49,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000218.jpg 775,77,1204,374,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000299.jpg 476,342,879,635,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000372.jpg 353,305,776,595,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000697.jpg 87,9,108,39,0 102,65,124,89,0 141,134,168,158,0 226,202,247,221,0 1,95,64,254,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002850.jpg 814,383,980,558,0 870,127,1076,345,0 78,655,231,720,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000159.jpg 640,306,1068,612,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003682.jpg 675,20,870,198,0 182,128,570,381,0 386,570,557,873,0 472,864,725,1080,0 813,555,1027,889,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005804.jpg 152,128,232,187,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003066.jpg 322,204,344,240,0 435,209,461,238,0 433,427,461,450,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001297.jpg 3,32,50,67,0 78,75,109,104,0 114,111,146,138,0 172,199,199,229,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005998.jpg 278,188,374,256,4 275,448,344,512,4 340,460,358,483,0 277,429,296,451,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003691.jpg 673,7,858,191,0 155,109,577,394,0 351,553,530,880,0 454,880,704,1080,0 780,560,1008,875,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/005903.jpg 75,80,384,287,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002616.jpg 794,242,926,451,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002810.jpg 929,133,1116,341,0 96,646,253,720,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002666.jpg 823,351,983,589,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003645.jpg 636,6,838,196,0 158,138,566,398,0 434,582,630,869,0 848,546,1101,869,0 551,862,832,1080,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/006053.jpg 352,190,372,209,0 337,290,347,316,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001365.jpg 53,36,89,72,0 105,81,131,109,0 139,126,163,151,0 204,219,231,250,0 1,1,22,17,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003430.jpg 286,168,386,267,4 325,262,345,286,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/000604.jpg 150,115,168,142,0 165,76,193,100,0 219,60,259,83,0 295,53,320,74,0 1,165,72,255,4
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001227.jpg 28,57,74,86,0 110,90,151,116,0 161,125,199,150,0 4,132,27,152,0 246,198,276,232,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002886.jpg 802,141,976,342,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002581.jpg 728,257,875,446,0 435,456,543,616,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/003598.jpg 893,534,1186,869,0 594,7,801,199,0 151,180,572,425,0 498,600,726,894,0 682,884,1004,1080,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/001254.jpg 24,42,78,71,0 111,80,142,101,0 147,108,184,140,0 220,193,253,230,0
+/home/chao/Documents/MMDetector/test_data/car_building/VOCdevkit/VOC2007/JPEGImages/002527.jpg 671,302,835,525,0 225,13,323,127,0
